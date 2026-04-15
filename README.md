@@ -26,7 +26,7 @@ This is my personal portfolio website showcasing my projects, technical skills, 
 
 ## Live Demo
 
-(Add your deployed link here once deployed)
+https://nikhilachandini.github.io/Portfolio/
 
 ## Note
 
