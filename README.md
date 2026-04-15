@@ -2,14 +2,14 @@
 
 ## Overview
 
-This is my personal portfolio website showcasing my projects, technical skills, and experience in Data Analysis and Business Analysis. It highlights my work in building data-driven solutions and applying analytics to real-world problems.
+This is my personal portfolio website showcasing my projects, technical skills, and experience in Data Analysis and Business Analysis. It highlights my ability to build data-driven solutions and apply analytics to real-world business problems.
 
 ## Features
 
 * Clean and responsive design
-* Project showcase section
-* Skills and experience overview
-* Contact section
+* Project showcase with detailed descriptions
+* Skills and experience section
+* Contact section for professional reach
 
 ## Tech Stack
 
@@ -17,7 +17,7 @@ This is my personal portfolio website showcasing my projects, technical skills, 
 * CSS
 * JavaScript
 
-## Projects Included
+## Projects Highlighted
 
 * QR-Based Attendance System
 * Bank Marketing Prediction
@@ -26,8 +26,8 @@ This is my personal portfolio website showcasing my projects, technical skills, 
 
 ## Live Demo
 
-https://nikhilachandini.github.io/Portfolio/
+https://nikhilachandini.github.io/portfolio/
 
-## Note
+## Purpose
 
-This portfolio represents my work and will be continuously updated with new projects and improvements.
+This portfolio represents my work in combining data analysis with business understanding to deliver meaningful insights and solutions.
